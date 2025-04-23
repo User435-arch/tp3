@@ -6,3 +6,6 @@
 
 ### Nous allons maintenant procéder à l'insertion d'une image de *Linus Torvalds*
 ![Image de Linus Torvalds](../.images/linus.jpeg "Linus Torvalds")
+
+### Ainsi qu'une vidéo
+<a href="https://youtu.be/tgbNymZ7vqY"></a>
