@@ -8,4 +8,4 @@
 ![Image de Linus Torvalds](../.images/linus.jpeg "Linus Torvalds")
 
 ### Ainsi qu'une vidéo
-<a href="https://youtu.be/tgbNymZ7vqY"></a>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" title="Bohemian Rhapsody | Muppet Music Video | The Muppets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
