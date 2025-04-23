@@ -5,4 +5,4 @@
 <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Lien vers wikipedia</a>
 
 ### Nous allons maintenant procéder à l'insertion d'une image de *Linus Torvalds*
-![Image de Linus Torvalds](/.images/linus.jpeg "Linus Torvalds") 
+![Image de Linus Torvalds](./.images/linus.jpeg "Linus Torvalds") 
