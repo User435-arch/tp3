@@ -9,3 +9,26 @@
 
 ### Ainsi qu'une vidéo
 <iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" title="Bohemian Rhapsody | Muppet Music Video | The Muppets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Insertion d'un tableau
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th style="text-align: center">Pris</th>
+      <th style="text-align: right">Stock</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pommes</td>
+      <td style="text-align: center">1.99</td>
+      <td style="text-align: right">739</td>
+    </tr>
+    <tr>
+      <td>Bananas</td>
+      <td style="text-align: center">1.89</td>
+      <td style="text-align: right">6</td>
+    </tr>
+  </tbody>
+</table>
