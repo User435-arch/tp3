@@ -14,8 +14,8 @@
 <table>
   <thead>
     <tr>
-      <th>Item</th>
-      <th style="text-align: center">Pris</th>
+      <th>Objet</th>
+      <th style="text-align: center">Prix</th>
       <th style="text-align: right">Stock</th>
     </tr>
   </thead>
@@ -26,7 +26,7 @@
       <td style="text-align: right">739</td>
     </tr>
     <tr>
-      <td>Bananas</td>
+      <td>Bananes</td>
       <td style="text-align: center">1.89</td>
       <td style="text-align: right">6</td>
     </tr>
