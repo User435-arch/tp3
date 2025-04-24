@@ -32,3 +32,8 @@
     </tr>
   </tbody>
 </table>
+
+### Insertion de contenu avec CSS
+<div class="note">
+Cette boîte a été générée avec css. J'ai reprodui le résultat
+</div>
