@@ -5,7 +5,7 @@
 <a href="https://en.wikipedia.org/wiki/Linus_Torvalds"><font color="red">Lien vers wikipedia</font></a>
 
 ### Nous allons maintenant procéder à l'insertion d'une image de *Linus Torvalds*
-<img src="../images/linus.jpeg" width="200" height="100">
+<img src="../images/linus.jpeg" alt="image" title="Linus Torvalds" width="200" height="100">
 
 ### Ainsi qu'une vidéo
 <iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" title="Bohemian Rhapsody | Muppet Music Video | The Muppets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
