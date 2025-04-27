@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 ### Ceci est un texte, voici un lien d'exemple vers un site interne
 <a href="https://abderzah.github.io/Introduction-GIT/tp5/exemple/exemple.html">Site d'exemple</a>
 
